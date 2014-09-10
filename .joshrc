@@ -1,0 +1,6 @@
+// example .joshrc
+{
+
+  "prompt": "$24HOUR:$MINUTES [$NAME] $ "
+
+}
