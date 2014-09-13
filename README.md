@@ -1,4 +1,4 @@
 josh
 ====
 
-Josh's Own SHell
+**J**osh's **O**wn **SH**ell
